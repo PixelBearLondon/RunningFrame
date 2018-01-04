@@ -1,2 +1,2 @@
 # RunningFrame
-A pace for my website
+A place for my website
